@@ -1,0 +1,60 @@
+alert = blocks the rest of your script from running. Best to use Console.
+
+Variables - 
+
+var - don't want to use it as much. Can cause conflicts
+let - reassign values 
+
+e.g.
+let age = 30;
+
+const - always use const unless you reassign the value
+
+e.g. score in a game
+
+datatypes - 
+primitative data types - directly assigned to memory
+strings const name = 'john'
+numbers const age = 30; 
+boolean const isCool = true/false;
+null x = null;
+undefined y = undefined; let z;
+symbol
+
+COncatenation
+console.log("My name is '+ name + ' and I am ' + age);
+
+Template Strings
+
+Check for the smallest value
+Create two variables x & y
+Write an if / else block
+It should compare a number x to another number y
+It should print ("x is greater than y") in the console
+Or "x is smaller than y"
+Or "x is equal to y"
+Depending on the value of x and y
+BONUS: Find the largest value out of x, y and z
+
+Math.max()' is for finding the greatest value in a list
+Math.ceil() this function will always round up to the nearest integer.
+
+We need to imagine that when the function was called that the variables were passed as arguments to the function
+
+
+TODAY - FUNCTIONS
+TOMORROW - ARRAYS
+
+isNaN(result)
+
+ * A function that generates a student summary from an inputted score and name, to place at the end of a report card for a student.
+ * "A": "Congratulations John! You achieved a grade of A."
+ * "B": "Well done John! You achieved a grade of B."
+ * "C": "Nicely done John! You achieved a grade of C."
+ * "D": "That's okay John. You achieved a grade of D."
+ * "E": "Too bad John. You achieved a grade of E."
+ * "F": "Sorry John. You achieved a grade of F. There's always next year."
+ * If there is a score error : "My apologies John, there's been an error in processing your grade."
+
+a javascript function is a block of code designed to perform a particular task
+it is reusable we can call it over and over again as many times as you like to get that desired outcome again and again. 

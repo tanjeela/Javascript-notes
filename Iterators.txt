@@ -1,0 +1,16 @@
+haven't formulated a design that you want to write
+
+Designing your solution, understanding the problem
+Writing out your solution, based on the design
+
+//Design steps to follow to understand a problem
+And then construct a solution
+
+Write out what the sample input looks like
+Write out what our sample output should look like based on that input
+Find the smalest (repeated) part of the output, and solve that manually (0n paper) or as a comment
+Analysing a problem to find sub-problems is the most important skill a programmer can have
+Google is number 2 
+
+What are our iterators?
+Are pre-written methods (functions) that give us the ability to easily write common code, without having to write a whole for loop every single time.
